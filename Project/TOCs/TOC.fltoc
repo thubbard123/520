@@ -6,10 +6,10 @@
     Link="/Content/C-Procedure-Topics/Getting-Started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/KEEP ME/Whats-New.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/B-Feature-Topics/KEEP ME/NewFolder/Whats-New.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/KEEP ME/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      Link="/Content/B-Feature-Topics/KEEP ME/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
